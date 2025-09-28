@@ -1,4 +1,4 @@
 # 每日记录
 这是我自己的每天日常记录，虽然没什么人会看到，但我还是希望自己可以每天写上一两句话，至少这样可以让自己觉得还活着
 
-!()[https://i0.hdslb.com/bfs/article/b96b14713dd9c1438db05b0e2fd056a92000063756.jpg]
+![https://i0.hdslb.com/bfs/article/b96b14713dd9c1438db05b0e2fd056a92000063756.jpg]
